@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "seth-dentist",
+    "hosting": "seth-dentist"
+  },
+  "targets": {},
+  "etags": {}
+}
